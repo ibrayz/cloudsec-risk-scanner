@@ -1,4 +1,3 @@
-CloudSec Risk Scanner
 CloudSec Risk Scanner, AWS ortamlarında yaygın olarak karşılaşılan güvenlik yanlış yapılandırmalarını tespit etmek amacıyla geliştirilmiş Python tabanlı bir komut satırı (CLI) güvenlik denetim aracıdır.
 
 Proje, bulut ortamlarında hem önleyici güvenlik kontrollerini hem de olayların tespit edilebilirliğini değerlendirmeyi hedefler.
